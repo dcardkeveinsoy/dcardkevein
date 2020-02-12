@@ -1,0 +1,2 @@
+# dcardkevein
+Aprendiendo inteligencia artificial
